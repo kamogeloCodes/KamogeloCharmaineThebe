@@ -75,8 +75,8 @@ HERO AREA
 #hero{
     color: #fff;
     text-align: center;
-    background: url(https://github.com/kamogeloCodes/KamogeloCharmaineThebe/blob/master/img/AUDIOS(1).jpg) no-repeat;*/
-    /*background-color: black; */
+    background: url(https://github.com/kamogeloCodes/KamogeloCharmaineThebe/blob/master/img/AUDIOS(1).jpg) no-repeat;
+    background-color: black;
     background-size: cover;
     max-height: 880px;
     overflow: hidden;
