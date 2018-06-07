@@ -74,8 +74,8 @@ HERO AREA
 #hero{
     color: #fff;
     text-align: center;
-    background: url(img/AUDIOS(1).jpg) no-repeat;
-   /* background-color: black; your background image*/
+   /*  background: url(img/AUDIOS(1).jpg) no-repeat;*/
+    background-color: black; 
     background-size: cover;
     max-height: 880px;
     overflow: hidden;
