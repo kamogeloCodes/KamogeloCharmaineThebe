@@ -70,11 +70,11 @@ hr.separetor{
 
 /*================================
 HERO AREA
-================================ trianglify-background.svg*/
+================================ trianglify-background.svg url(../img/AUDIOS(1).jpg)no-repeat*/
 #hero{
     color: #fff;
     text-align: center;
-    background: url(../img/AUDIOS(1).jpg)no-repeat; /*your background image*/
+    background-color: black; /*your background image*/
     background-size: cover;
     max-height: 880px;
     overflow: hidden;
